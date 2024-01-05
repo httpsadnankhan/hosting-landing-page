@@ -76,7 +76,7 @@ a{
 }
 /* End Back to top button */
 .navbar-hero {
-    background-image: url(/assets/images/hero-bg.png);
+    background-image: url(https://raw.githubusercontent.com/httpsadnankhan/hosting-landing-page/main/assets/images/hero-bg.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height: 100vh; 
@@ -487,7 +487,7 @@ a{
 
 /* Domain Section */
 .domain{
-    background-image: url(/assets/images/domain-bg.png);
+     background-image: url(https://raw.githubusercontent.com/httpsadnankhan/hosting-landing-page/main/assets/images/domain-bg.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height: 60vh; 
